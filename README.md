@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7ee5faf0-ef5b-4d15-b70a-a320f673334e" /># MisalEngine
 A C# Game Framework
 
 ### Set Up
