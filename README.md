@@ -7,7 +7,7 @@ but make sure you scripted in Main.cs
 
 # Scripting
 ### Graphics
-```cs
+```csharp
 // Color
 misal.Graphics.Color(r, g, b, a);
 // Clear
@@ -41,7 +41,7 @@ font?.Dispose();
 ```
 
 ### Audio
-```cs
+```csharp
 // Load Audio
 var audio = misal.AudioLoader.Load("pathName/pathName/pathName/.../audioName.mp3");
 // Play
@@ -57,7 +57,7 @@ audio.Dispose();
 audio?.Dispose(); // for checking the instance
 ```
 ### Input
-```cs
+```csharp
 misal.Input.IsDown("KeyName");
 misal.Input.IsUp("KeyName");
 misal.Input.IsPressed("KeyName");
