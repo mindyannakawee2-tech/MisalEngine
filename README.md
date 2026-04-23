@@ -1,3 +1,4 @@
+<img width="1000" height="1000" alt="logo" src="https://github.com/user-attachments/assets/f5944f4b-6514-4945-b86d-6172516f0bb0" />
 A C# Game Framework
 
 ### Set Up
@@ -9,6 +10,7 @@ You don't need to set up Misal because it's a full project template
 // Color
 misal.Graphics.Color(r, g, b, a);
 // Clear
+
 misal.Graphics.Clear(r, g, b, a); // for custom clear since the engine has auto clear
 // Rectangles
 misal.Graphics.Rect(x, y, width, height);
