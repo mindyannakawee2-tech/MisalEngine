@@ -3,6 +3,7 @@ A C# Game Framework
 
 ### Set Up
 You don't need to set up Misal because it's a full project template
+but make sure you scripted in Main.cs
 
 # Scripting
 ### Graphics
